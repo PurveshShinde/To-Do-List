@@ -1,3 +1,4 @@
+
 # 📝 To-Do List Application
 
 A clean, full-stack Task Management application built with **Java 21**, **Spring Boot 4**, **Spring Data JPA**, and **Tailwind CSS**. Features real-time task creation, completion toggling, inline editing, and deletion synced with an in-memory H2 database.
@@ -10,7 +11,7 @@ A clean, full-stack Task Management application built with **Java 21**, **Spring
 
 | Dashboard Overview | Task Management & Filters |
 | :---: | :---: |
-| ![Dashboard Screenshot](./docs/screenshots/dashboard.png) | ![Filters Screenshot](./docs/screenshots/filters.png) |
+| ![Dashboard Screenshot]<img width="1919" height="930" alt="image" src="https://github.com/user-attachments/assets/c006fa0d-b355-487e-9943-8ee138713adc" /> | ![Filters Screenshot](./docs/screenshots/filters.png) |
 
 ---
 
