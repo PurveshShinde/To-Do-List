@@ -9,11 +9,13 @@ A clean, full-stack Task Management application built with **Java 21**, **Spring
 
 > *Add your application screenshots below:*
 
-| Dashboard Overview | Postman Overview |
-| :---: | :---: |
-| <img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/6d567061-f060-4623-9d01-0dc1a50d3307" />
-| <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/91db55be-b7e2-4915-8a5b-70b32301e463" />
-|
+### 🖥️ Web Dashboard Overview
+<img width="100%" alt="Web Dashboard Overview" src="https://github.com/user-attachments/assets/6d567061-f060-4623-9d01-0dc1a50d3307" />
+
+<br/>
+
+### 🚀 Postman REST API Testing
+<img width="100%" alt="Postman API Overview" src="https://github.com/user-attachments/assets/91db55be-b7e2-4915-8a5b-70b32301e463" />
 
 ---
 
