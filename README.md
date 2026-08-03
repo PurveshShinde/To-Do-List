@@ -9,9 +9,11 @@ A clean, full-stack Task Management application built with **Java 21**, **Spring
 
 > *Add your application screenshots below:*
 
-| Dashboard Overview | Task Management & Filters |
+| Dashboard Overview | Postman Overview |
 | :---: | :---: |
-| ![Dashboard Screenshot]<img width="1919" height="930" alt="image" src="https://github.com/user-attachments/assets/c006fa0d-b355-487e-9943-8ee138713adc" /> | ![Filters Screenshot](./docs/screenshots/filters.png) |
+| <img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/6d567061-f060-4623-9d01-0dc1a50d3307" />
+| <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/91db55be-b7e2-4915-8a5b-70b32301e463" />
+|
 
 ---
 
