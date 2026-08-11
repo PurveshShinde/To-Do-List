@@ -101,5 +101,5 @@ demo/
 ---
 
 ## 👤 Author
-- **Developer**: Your Name
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Developer**: Purvesh Shinde
+- **GitHub**: [@PurveshShinde]([https://github.com/yourusername](https://github.com/PurveshShinde))
