@@ -7,8 +7,6 @@ A clean, full-stack Task Management application built with **Java 21**, **Spring
 
 ## 📸 Screenshots
 
-> *Add your application screenshots below:*
-
 ### 🖥️ Web Dashboard Overview
 <img width="100%" alt="Web Dashboard Overview" src="https://github.com/user-attachments/assets/6d567061-f060-4623-9d01-0dc1a50d3307" />
 
